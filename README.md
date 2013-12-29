@@ -11,7 +11,7 @@ This program verifies the text properties like Heap's and Zipf's law using conte
                                                          
 #####By this law we can learn that stop words like a, the appears large fration of the text.So, by not storing them we can significantly reduce the size of our indexing and can improve the performance.
 
-`Screen Shot For Visualization of Zipf's Law`
+**`Screen Shot For Visualization of Zipf's Law (log(f) vs. log(r))`**
 
 ![alt text](Zipfs.jpg "Zipf's Law")
 
@@ -23,7 +23,7 @@ This program verifies the text properties like Heap's and Zipf's law using conte
                                                           V=size of vocabulary.
                                                           N=size of corpus in words.
                                           
-`Screen Shot For Visualization of Heaps Law`
+**`Screen Shot For Visualization of Heaps Law (V vs. N)`**
 
 ![alt text](Heaps.jpg "Heap's Law")                                                          
 
