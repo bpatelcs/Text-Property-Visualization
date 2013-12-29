@@ -31,4 +31,4 @@ This program verifies the text properties like Heap's and Zipf's law using conte
 
 Downaload `ZipfLaw.java` ,`HeapsLaw.java` and `large.txt`.Here, large.txt is the file whose content will be used to verify these two laws.You can use content of other file as well,result will be the same for any file with large number of vocabularies.To verify these laws files must be large.
 
-Here stdDraws.java API is taken from book Algorithms By Robert Sedgewick and Kevin Wyane.
+Here stdDraw.java API is taken from book Algorithms By Robert Sedgewick and Kevin Wyane.
