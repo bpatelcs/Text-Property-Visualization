@@ -13,4 +13,4 @@ This program verifies the text properties like Heap's and Zipf's law using conte
 
 Screen Shot For Visualization of Zipf's Law:
 
-![alt text](Zipfs.JPG "Logo Title Text 1")
+![alt text](Zipfs.jpg "Logo Title Text 1")
