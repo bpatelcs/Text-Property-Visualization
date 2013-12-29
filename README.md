@@ -13,4 +13,17 @@ This program verifies the text properties like Heap's and Zipf's law using conte
 
 Screen Shot For Visualization of Zipf's Law:
 
-![alt text](Zipfs.jpg "Logo Title Text 1")
+![alt text](Zipfs.jpg "Zipf's Law")
+
+
+#####Heap's Law This las states the realation between growth of vocabulary size and growth of corpus size.Based on this law we can say that when we index the large corpus then there is always be the finding of new vocabulary.Thus at the begining there will be stiff rise in vocabulary but after some time vocabulary size grows slowly compared to the size of the corpus.
+
+                                          V=K .N^B    
+                                                    Where K=Constant 10~100.
+                                                          B=constant 0.4~0.6.
+                                                          V=size of vocabulary.
+                                                          N=size of corpus in words.
+                                          
+Screen Shot For Visualization of Heaps Law:
+
+![alt text](Heaps.jpg "Heap's Law")                                                          
